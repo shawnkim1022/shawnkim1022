@@ -7,6 +7,9 @@
 - 공개 정보: https://github.com/shawnkim1022/voice-order
 - 소스 코드: 별도 비공개 저장소 (Proprietary). 인터뷰 또는 사전 협의 자리에서 시연 가능합니다.
 
+- 계약서 사전 검토 엔진 (설계 공개) — NDA/MSA 계약서의 위험 조항을 결정론(rule-first)으로 선별해 변호사에게 넘기는 사전 검토 엔진의 아키텍처를 설계하고 있습니다. LLM 은 판단하지 않고 룰이 source of truth 입니다. (설계·연구 문서이며 법률 자문이 아닙니다.)
+- 설계 문서: https://github.com/shawnkim1022/contract-pre-review-design
+
 언어
 - 한국어 (모국어), 영어 (유창), 프랑스어 (모국어), 중국어 (읽고 듣기).
 
