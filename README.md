@@ -11,7 +11,7 @@
 - 설계 문서: https://github.com/shawnkim1022/contract-pre-review-design
 
 언어
-- 한국어 (모국어), 영어 (유창), 프랑스어 (모국어), 중국어 (읽고 듣기).
+- 한국어 (모국어), 영어 (Fluent), 프랑스어 (Fluent), 중국어 (Intermediate).
 
 연락처
 - shawnkim1022@gmail.com
